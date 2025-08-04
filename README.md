@@ -1,16 +1,16 @@
-## Hi there 👋
+## Hi 👋
+Olá,
+Meu nome é Mariama Alves Machado Braz Vieira
 
-<!--
-**mariamaAM-bit/mariamaAM-bit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Sou estudante do curso Técnico em Informática do Colégio Politécnico UFSM, em Santa Maria-RS.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+| Competências |Experiências|
+|----|-----|
+|C            |Iniciante   |
+
+## Redes sociais
+Meu instagram [@mariamaamachado](https://www.instagram.com/mariamaamachado?igsh=aHljamU1cHhoZDZ1)
+
+
+
