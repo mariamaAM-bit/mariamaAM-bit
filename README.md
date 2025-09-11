@@ -9,7 +9,8 @@ Sou estudante do curso Técnico em Informática do Colégio Politécnico UFSM, e
 I am a student of the Computer Technician course at the UFSM Polytechnic College, in Santa Maria-RS.
 
 | Competências|Experiências|
-|   Skills    |Experiences |
+|----|-----|
+|Skills|Experiences|
 |----|-----|
 |C            |Iniciante   |
 |Python       |Iniciante   |
