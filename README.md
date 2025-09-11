@@ -1,6 +1,7 @@
 ## Hi 👋
 Olá,
 Meu nome é Mariama Alves Machado Braz Vieira
+
 My name is Mariama Alves Machado Braz Vieira
 
 Sou estudante do curso Técnico em Informática do Colégio Politécnico UFSM, em Santa Maria-RS.
