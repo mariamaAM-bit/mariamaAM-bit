@@ -11,7 +11,6 @@ I am a student of the Computer Technician course at the UFSM Polytechnic College
 | Competências|Experiências|
 |----|-----|
 |Skills|Experiences|
-|----|-----|
 |C            |Iniciante   |
 |Python       |Iniciante   |
 
