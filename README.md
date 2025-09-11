@@ -8,6 +8,7 @@ Sou estudante do curso Técnico em Informática do Colégio Politécnico UFSM, e
 | Competências |Experiências|
 |----|-----|
 |C            |Iniciante   |
+|Python       |Iniciante   |
 
 ## Redes sociais
 Meu instagram [@mariamaamachado](https://www.instagram.com/mariamaamachado?igsh=aHljamU1cHhoZDZ1)
